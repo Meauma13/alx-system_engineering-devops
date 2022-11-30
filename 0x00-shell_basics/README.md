@@ -7,3 +7,5 @@ Features of the scripts in the repo
 3. Script 2-bring_me_home changes the working directory to the user home directory 
  
 4. Script 3-listfiles displays directory contents in long format
+ 
+5. Script 4-listmorefiles shows even hidden files
