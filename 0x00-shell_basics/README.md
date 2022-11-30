@@ -4,4 +4,6 @@ Features of the scripts in the repo
  
 2. Script 1-listit shows the contents of the directory 
  
-Script 2-bring_me_home changes the working directory to the user home directory 
+3. Script 2-bring_me_home changes the working directory to the user home directory 
+ 
+4. Script 3-listfiles displays directory contents in long format
