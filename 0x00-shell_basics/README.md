@@ -9,3 +9,5 @@ Features of the scripts in the repo
 4. Script 3-listfiles displays directory contents in long format
  
 5. Script 4-listmorefiles shows even hidden files
+ 
+6. Script 5-listfilesdigitsonly displays directory contents with numeric group and user ids
