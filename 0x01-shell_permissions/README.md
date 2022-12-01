@@ -25,3 +25,5 @@ What these scripts do
 10. Script 11-directories_permissions adds execute permissions to subdirectories of the current directory
  
 13. Script 12-directory_permissions initializes a directory with 751 permissions
+ 
+14. Script 13-change_group changes the group owner to school
