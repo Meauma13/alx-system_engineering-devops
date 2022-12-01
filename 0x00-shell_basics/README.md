@@ -29,3 +29,5 @@ Features of the scripts in the repo
 14. Script 13-symbolic_link points a symbolic link to a file
  
 15. Script 14-copy_html copies non-existing or newer versioned html files
+ 
+16. Script 100-lets_move moves all files beginning with an uppercase leter
