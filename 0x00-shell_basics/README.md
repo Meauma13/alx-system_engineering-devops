@@ -14,3 +14,4 @@ Features of the scripts in the repo
  
 7. Script 6-firstdirectory creates my_first_directory in the tmp directory
  
+8. Script 7-movethatfile moves betty file to the directory created earlier
