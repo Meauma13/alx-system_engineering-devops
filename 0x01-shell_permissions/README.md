@@ -23,3 +23,5 @@ What these scripts do
 11. Script 10-mirror_permissions ensures that 2 files have similar permissions
  
 10. Script 11-directories_permissions adds execute permissions to subdirectories of the current directory
+ 
+13. Script 12-directory_permissions initializes a directory with 751 permissions
