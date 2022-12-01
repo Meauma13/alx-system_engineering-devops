@@ -15,3 +15,5 @@ What these scripts do
 7. Script 6-multiple_permissions adds permissions for the hello file
  
 8. Script 7-everybody gives execution permissions to all users
+ 
+9. Script 8-James_Bond gives only others all permissions
