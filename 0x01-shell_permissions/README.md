@@ -11,3 +11,5 @@ What these scripts do
 5. Script 4-empty creates an empty hello file
  
 6. Script 5-execute adds executive permissions to hello
+ 
+7. Script 6-multiple_permissions adds permissions for the hello file
