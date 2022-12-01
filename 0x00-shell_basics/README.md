@@ -25,3 +25,5 @@ Features of the scripts in the repo
 12. Script 11-lists displays files in multiple directories
  
 13. Script 12-file_type displays the type of file
+ 
+14. Script 13-symbolic_link points a symbolic link to a file
