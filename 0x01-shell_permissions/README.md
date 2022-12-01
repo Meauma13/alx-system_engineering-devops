@@ -21,3 +21,5 @@ What these scripts do
 10. Script 9-John_Doe changes the mode of the hello file
  
 11. Script 10-mirror_permissions ensures that 2 files have similar permissions
+ 
+10. Script 11-directories_permissions adds execute permissions to subdirectories of the current directory
