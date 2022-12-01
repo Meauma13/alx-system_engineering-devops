@@ -27,3 +27,5 @@ What these scripts do
 13. Script 12-directory_permissions initializes a directory with 751 permissions
  
 14. Script 13-change_group changes the group owner to school
+ 
+15. Script 100-change_owner_and_group changes member and group ownership
