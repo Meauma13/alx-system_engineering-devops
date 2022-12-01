@@ -9,3 +9,5 @@ What these scripts do
 4. Script 3-new_owner changes the owner of the hello file to betty
  
 5. Script 4-empty creates an empty hello file
+ 
+6. Script 5-execute adds executive permissions to hello
