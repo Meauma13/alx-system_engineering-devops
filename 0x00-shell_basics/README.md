@@ -33,3 +33,5 @@ Features of the scripts in the repo
 16. Script 100-lets_move moves all files beginning with an uppercase leter
  
 17. Script 101-clean_emacs deletes files which end with ~
+ 
+18. Script 102-tree creates 3 new directories in the current
