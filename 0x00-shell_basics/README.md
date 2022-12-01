@@ -27,3 +27,5 @@ Features of the scripts in the repo
 13. Script 12-file_type displays the type of file
  
 14. Script 13-symbolic_link points a symbolic link to a file
+ 
+15. Script 14-copy_html copies non-existing or newer versioned html files
