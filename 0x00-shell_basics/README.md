@@ -17,3 +17,5 @@ Features of the scripts in the repo
 8. Script 7-movethatfile moves betty file to the directory created earlier
  
 9. Script 8-firstdelete does delete betty file
+ 
+10. Script 9-firstdirdeletion deletes my_first_directory
