@@ -37,3 +37,5 @@ Features of the scripts in the repo
 18. Script 102-tree creates 3 new directories in the current
  
 19. Script 103-commas lists the comma-separated directory contents
+ 
+20. Script school.mgc can be used to detect School data files which always contain the string SCHOOL at offset 0
