@@ -11,3 +11,6 @@ Features of the scripts in the repo
 5. Script 4-listmorefiles shows even hidden files
  
 6. Script 5-listfilesdigitsonly displays directory contents with numeric group and user ids
+ 
+7. Script 6-firstdirectory creates my_first_directory in the tmp directory
+ 
