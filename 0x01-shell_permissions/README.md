@@ -19,3 +19,5 @@ What these scripts do
 9. Script 8-James_Bond gives only others all permissions
  
 10. Script 9-John_Doe changes the mode of the hello file
+ 
+11. Script 10-mirror_permissions ensures that 2 files have similar permissions
