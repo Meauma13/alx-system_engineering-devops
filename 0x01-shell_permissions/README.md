@@ -17,3 +17,5 @@ What these scripts do
 8. Script 7-everybody gives execution permissions to all users
  
 9. Script 8-James_Bond gives only others all permissions
+ 
+10. Script 9-John_Doe changes the mode of the hello file
