@@ -31,3 +31,5 @@ Features of the scripts in the repo
 15. Script 14-copy_html copies non-existing or newer versioned html files
  
 16. Script 100-lets_move moves all files beginning with an uppercase leter
+ 
+17. Script 101-clean_emacs deletes files which end with ~
