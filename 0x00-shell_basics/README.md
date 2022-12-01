@@ -23,3 +23,5 @@ Features of the scripts in the repo
 11. Script 10-back changes working directory to the previous one
  
 12. Script 11-lists displays files in multiple directories
+ 
+13. Script 12-file_type displays the type of file
