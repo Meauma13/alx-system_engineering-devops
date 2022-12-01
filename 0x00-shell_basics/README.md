@@ -21,3 +21,5 @@ Features of the scripts in the repo
 10. Script 9-firstdirdeletion deletes my_first_directory
  
 11. Script 10-back changes working directory to the previous one
+ 
+12. Script 11-lists displays files in multiple directories
