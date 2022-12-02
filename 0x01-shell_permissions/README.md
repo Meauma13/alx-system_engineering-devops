@@ -29,3 +29,5 @@ What these scripts do
 14. Script 13-change_group changes the group owner to school
  
 15. Script 100-change_owner_and_group changes member and group ownership
+ 
+16. Script 101-symbolic_link_permissions changes owner and group rights for a symbolic link
