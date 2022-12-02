@@ -31,3 +31,5 @@ What these scripts do
 15. Script 100-change_owner_and_group changes member and group ownership
  
 16. Script 101-symbolic_link_permissions changes owner and group rights for a symbolic link
+ 
+17. Script 102-if_only changes file ownership based on a condition
