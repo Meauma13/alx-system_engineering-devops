@@ -33,3 +33,5 @@ What these scripts do
 16. Script 101-symbolic_link_permissions changes owner and group rights for a symbolic link
  
 17. Script 102-if_only changes file ownership based on a condition
+ 
+18. Script 103-star_wars plays the Star Wars IV episode in the terminal.
