@@ -28,4 +28,6 @@ Shell Variables Expansions
 
 14. Script 13-print_float prints a number with decimal point
 
-15. 
+15. Script 100-decimal_to_hexadecimal converts decimal to hexadecimal 
+
+16. 
