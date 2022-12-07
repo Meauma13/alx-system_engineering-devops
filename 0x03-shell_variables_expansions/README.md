@@ -22,4 +22,6 @@ Shell Variables Expansions
 
 11. Script 10-love_exponent_breath displays the reult of an exponential operation 
 
-12.
+12. Script 11-binary_to_decimal converts a binary environment variable to base 10
+
+13. 
