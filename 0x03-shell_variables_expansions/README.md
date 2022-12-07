@@ -13,3 +13,7 @@ Shell Variables Expansions
 6. Script 5-local_variables displays local variables
 
 7. Script 6-create_local_variable creates a new local variable
+
+8. Script 7-create_global_variable creates a new global variable
+
+
