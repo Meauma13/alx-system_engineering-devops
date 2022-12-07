@@ -16,4 +16,8 @@ Shell Variables Expansions
 
 8. Script 7-create_global_variable creates a new global variable
 
+9. Script 8-true_knowledge adds a variable to a number literal
 
+10. Script 9-divide_and_rule prints the result of an arithmetic division
+
+11. 
