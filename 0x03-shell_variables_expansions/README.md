@@ -9,3 +9,6 @@ Shell Variables Expansions
 4. Script 3-paths counts the number of directories in the PATH
 
 5. Script 4-global_variables lists environment variables
+
+6. Script 5-local_variables displays local variables
+
