@@ -30,4 +30,6 @@ Shell Variables Expansions
 
 15. Script 100-decimal_to_hexadecimal converts decimal to hexadecimal 
 
-16. 
+16. Script 101-rot13 encodes and decodes text using the rot13 encryption
+
+17. 
