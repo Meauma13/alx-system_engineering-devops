@@ -26,4 +26,6 @@ Shell Variables Expansions
 
 13. Script 12-combinations displays all possible combinations of two letters
 
-14. 
+14. Script 13-print_float prints a number with decimal point
+
+15. 
