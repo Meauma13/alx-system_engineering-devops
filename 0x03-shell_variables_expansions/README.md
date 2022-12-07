@@ -20,4 +20,6 @@ Shell Variables Expansions
 
 10. Script 9-divide_and_rule prints the result of an arithmetic division
 
-11. 
+11. Script 10-love_exponent_breath displays the reult of an exponential operation 
+
+12.
