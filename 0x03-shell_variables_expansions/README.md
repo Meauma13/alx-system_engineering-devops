@@ -24,4 +24,6 @@ Shell Variables Expansions
 
 12. Script 11-binary_to_decimal converts a binary environment variable to base 10
 
-13. 
+13. Script 12-combinations displays all possible combinations of two letters
+
+14. 
