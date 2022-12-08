@@ -32,4 +32,6 @@ Shell Variables Expansions
 
 16. Script 101-rot13 encodes and decodes text using the rot13 encryption
 
-17. 
+17. Script 102-odd prints odd line numbers
+
+18. 
